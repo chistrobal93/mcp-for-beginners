@@ -1296,9 +1296,8 @@ npx @modelcontextprotocol/inspector
 
 En la interfaz web del inspector:
 
-1. Selecciona "SSE" como el tipo de transporte.  
-2. Establece la URL en: `http://localhost:8080/sse`.  
-3. Haz clic en "Connect".
+1. Selecciona "STDIO" como el tipo de transporte.  
+2. Haz clic en "Connect".
 
 ![Conectar](../../../../translated_images/tool.163d33e3ee307e209ef146d8f85060d2f7e83e9f59b3b1699a77204ae0454ad2.es.png)
 
